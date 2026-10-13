@@ -4,7 +4,7 @@
 
 ## 다운로드
 
-**[최신 릴리즈 받기](https://github.com/magicianaos/KR-AOS-BlackGeyser/releases/latest)** — Assets에서 `BlackGeyser_KR_Patch_v0.9.exe`를 받으세요.
+**[최신 릴리즈 받기](https://github.com/magicianaos/KR-AOS-Black-Geyser/releases)** — Assets에서 `BlackGeyser_KR_Patch_v0.9.exe`를 받으세요.
 
 소개·설치 방법: https://kr-aos.win/games/black-geyser.html
 
